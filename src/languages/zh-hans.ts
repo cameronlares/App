@@ -1931,6 +1931,7 @@ const translations: TranslationDeepObject<typeof en> = {
             prompt: '提示',
             editPrompt: '编辑提示',
             promptCannotBeEmpty: '提示不能为空',
+            saved: '已保存',
         },
     },
     securityPage: {

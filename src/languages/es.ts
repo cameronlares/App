@@ -1875,6 +1875,7 @@ const translations: TranslationDeepObject<typeof en> = {
             prompt: 'Indicador',
             editPrompt: 'Editar mensaje',
             promptCannotBeEmpty: 'El campo de indicaciones no puede estar vacío',
+            saved: 'Guardado',
         },
     },
     securityPage: {

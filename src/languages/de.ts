@@ -1992,6 +1992,7 @@ const translations: TranslationDeepObject<typeof en> = {
             prompt: 'Aufforderung',
             editPrompt: 'Eingabeaufforderung bearbeiten',
             promptCannotBeEmpty: 'Eingabe darf nicht leer sein',
+            saved: 'Gespeichert',
         },
     },
     securityPage: {

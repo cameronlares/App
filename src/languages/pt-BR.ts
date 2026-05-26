@@ -1983,6 +1983,7 @@ const translations: TranslationDeepObject<typeof en> = {
             prompt: 'Prompt',
             editPrompt: 'Editar prompt',
             promptCannotBeEmpty: 'O prompt não pode ficar vazio',
+            saved: 'Salvo',
         },
     },
     securityPage: {
